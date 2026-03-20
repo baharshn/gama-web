@@ -3,8 +3,8 @@ import "./globals.css"
 import Navbar from "@/components/layout/Navbar"
 
 export const metadata: Metadata = {
-    title: "Gama Web",
-    description: "Gama Web sitesi",
+    title: "GAMA | Industrial UAV Systems",
+    description: "Empowering professional drone operators with the world's most capable industrial flight platforms.",
 }
 
 export default function RootLayout({
@@ -14,9 +14,9 @@ export default function RootLayout({
 }) {
     return (
         <html lang="tr">
-        <body>
+        <body className="antialiased selection:bg-brand-orange selection:text-white">
         <Navbar />
-        <main className="pt-32">
+        <main className="pt-[var(--total-nav-height)]">
             {children}
         </main>
         </body>

@@ -1,10 +1,4 @@
-export interface NavLink2 {
-    label: string
-    href: string
-    alignRight?: boolean
-}
-
-export interface NavLink1 {
+export interface NavLink {
     label: string
     href: string
     alignRight?: boolean

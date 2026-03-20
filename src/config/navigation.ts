@@ -1,13 +1,13 @@
-import type { NavLink1, NavLink2, FlightPreset, Testimonial } from "@/types"
+import type { NavLink, FlightPreset, Testimonial } from "@/types"
 
-export const NAV_LINKS1: NavLink1[] = [
+export const NAV_LINKS1: NavLink[] = [
     { label: "OVERVİEW", href: "#overview", alignRight: true },
     { label: "SPECS", href: "#specs", alignRight: true },
     { label: "WIKI", href: "#wiki", alignRight: true },
     { label: "TRAINING", href: "#training", alignRight: true },
     { label: "INSURANCE", href: "#insurance", alignRight: true },
 ]
-export const NAV_LINKS2: NavLink2[] = [
+export const NAV_LINKS2: NavLink[] = [
     { label: "DRONES", href: "#hero" },
     { label: "GIMBALS",    href: "#gimbals" },
     { label: "CAMERA", href: "#" },
