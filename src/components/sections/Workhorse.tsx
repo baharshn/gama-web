@@ -13,7 +13,7 @@ export default function Workhorse() {
 
             <div className="absolute top-24 left-0 right-0 text-center px-6 sm:px-20 z-10 animate-reveal animate-delay-1">
                 <h1 className="text-white text-4xl sm:text-6xl font-black italic mb-6 tracking-tighter uppercase">
-                    Industrial workhorse.
+                    Industrıal workhorse.
                 </h1>
                 <p className="text-neutral-400 text-base sm:text-lg max-w-2xl mx-auto leading-relaxed">
                     We designed Alta X from the ground up to capitalize on the
