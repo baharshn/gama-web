@@ -24,6 +24,23 @@
   --color-brand-orange-hover: var(--brand-orange-hover);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  /* PayloadWeight section colors */
+  --color-payload-bg: #0d1f35;
+  --color-payload-card: #0d2a47;
+  --color-payload-accent: #4a8ab5;
+  --color-section-light: #c8dff0;
+  --color-section-mid: #b0cfe8;
+  --color-section-dark: #8ab5d4;
+  --color-drone-panel: #3a4a5a;
+  --color-layer-1: #1a3a5c;
+  --color-layer-2: #1e4266;
+  --color-layer-3: #224a70;
+  --color-layer-4: #265278;
+  --color-layer-5: #2a5a82;
+  --color-layer-6: #2e628c;
+  --color-layer-7: #326a96;
+  --color-layer-8: #3672a0;
 }
 
 @media (prefers-color-scheme: dark) {
